@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'angelmc.play.hosting',
     port: 25565,
-    username: 'Angelmc',
+    username: 'AngelMC',
     version: false
   });
 
